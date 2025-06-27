@@ -1,8 +1,3 @@
-Below is a simplified working skeleton for your app, separated into frontend and backend folders, with full file listing. You can copy these files directly into your project.
-
-
----
-
 ➖ Backend: backend/
 
 1. server.js
